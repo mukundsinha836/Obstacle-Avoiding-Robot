@@ -24,7 +24,7 @@ Embedded C/C++
 
 # Circuit diagram:
 
-![Circuit-diagram](diagrams/ckt_diagram.png)
+![circuit-diagram](diagrams/ckt_diagram.jpg)
 
 
 APPLICATION:
